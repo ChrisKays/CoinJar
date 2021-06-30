@@ -1,0 +1,11 @@
+D:\ChrisGK\GKAssessment\CoinJar\obj\Debug\net5.0\CoinJar.GeneratedMSBuildEditorConfig.editorconfig
+D:\ChrisGK\GKAssessment\CoinJar\obj\Debug\net5.0\CoinJar.AssemblyInfoInputs.cache
+D:\ChrisGK\GKAssessment\CoinJar\obj\Debug\net5.0\CoinJar.AssemblyInfo.cs
+D:\ChrisGK\GKAssessment\CoinJar\obj\Debug\net5.0\CoinJar.csproj.CoreCompileInputs.cache
+D:\ChrisGK\GKAssessment\CoinJar\bin\Debug\net5.0\CoinJar.deps.json
+D:\ChrisGK\GKAssessment\CoinJar\bin\Debug\net5.0\CoinJar.dll
+D:\ChrisGK\GKAssessment\CoinJar\bin\Debug\net5.0\ref\CoinJar.dll
+D:\ChrisGK\GKAssessment\CoinJar\bin\Debug\net5.0\CoinJar.pdb
+D:\ChrisGK\GKAssessment\CoinJar\obj\Debug\net5.0\CoinJar.dll
+D:\ChrisGK\GKAssessment\CoinJar\obj\Debug\net5.0\ref\CoinJar.dll
+D:\ChrisGK\GKAssessment\CoinJar\obj\Debug\net5.0\CoinJar.pdb
