@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XbtW+Hl4n0S5gWCoKv/wcUGLUfLDeQK0zaDkzKRD+ZUSgsu4UgWTBzJg6DAm+Bhbeq00BLj6FLwYxSBAMcVLzg==",
+  "dgSpecHash": "HyzrHZGeXKNo6u5dMLjAOA8c3DV0z6A75viytIKFJsP4NnKO8alQ8dKEdiQAIEo2aEMUA3ySUgZGY4jqiQ9xMQ==",
   "success": true,
-  "projectFilePath": "D:\\ChrisGK\\GKAssessment\\CoinJar.UnitTests\\CoinJar.UnitTests.csproj",
+  "projectFilePath": "D:\\GKAssessment\\CoinJar\\GKAssessment\\CoinJar.UnitTests\\CoinJar.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Chris\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\Chris\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

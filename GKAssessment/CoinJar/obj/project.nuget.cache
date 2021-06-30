@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l19ln7+FhI/1BGtj8nqid5CEoAg6hSzp/xJ1E6mLj2sXW3HlTt4tTfxkPgf6f1R49yztu24pnKfaDiblI+CRQw==",
+  "dgSpecHash": "N1dRw4B2IPS/u4w6FhrCum/29/YEDDMquYmKZAiluhq6KyVKQyDU4+RkYEw6utM8UBWyZ00hi8pXTbh2qzTWUg==",
   "success": true,
-  "projectFilePath": "D:\\ChrisGK\\GKAssessment\\CoinJar\\CoinJar.csproj",
+  "projectFilePath": "D:\\GKAssessment\\CoinJar\\GKAssessment\\CoinJar\\CoinJar.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Chris\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Chris\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

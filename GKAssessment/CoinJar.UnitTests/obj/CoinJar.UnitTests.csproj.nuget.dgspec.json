@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ChrisGK\\GKAssessment\\CoinJar.UnitTests\\CoinJar.UnitTests.csproj": {}
+    "D:\\GKAssessment\\CoinJar\\GKAssessment\\CoinJar.UnitTests\\CoinJar.UnitTests.csproj": {}
   },
   "projects": {
-    "D:\\ChrisGK\\GKAssessment\\CoinJar.UnitTests\\CoinJar.UnitTests.csproj": {
+    "D:\\GKAssessment\\CoinJar\\GKAssessment\\CoinJar.UnitTests\\CoinJar.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ChrisGK\\GKAssessment\\CoinJar.UnitTests\\CoinJar.UnitTests.csproj",
+        "projectUniqueName": "D:\\GKAssessment\\CoinJar\\GKAssessment\\CoinJar.UnitTests\\CoinJar.UnitTests.csproj",
         "projectName": "CoinJar.UnitTests",
-        "projectPath": "D:\\ChrisGK\\GKAssessment\\CoinJar.UnitTests\\CoinJar.UnitTests.csproj",
+        "projectPath": "D:\\GKAssessment\\CoinJar\\GKAssessment\\CoinJar.UnitTests\\CoinJar.UnitTests.csproj",
         "packagesPath": "C:\\Users\\Chris\\.nuget\\packages\\",
-        "outputPath": "D:\\ChrisGK\\GKAssessment\\CoinJar.UnitTests\\obj\\",
+        "outputPath": "D:\\GKAssessment\\CoinJar\\GKAssessment\\CoinJar.UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,8 +34,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\ChrisGK\\GKAssessment\\CoinJar\\CoinJar.csproj": {
-                "projectPath": "D:\\ChrisGK\\GKAssessment\\CoinJar\\CoinJar.csproj"
+              "D:\\GKAssessment\\CoinJar\\GKAssessment\\CoinJar\\CoinJar.csproj": {
+                "projectPath": "D:\\GKAssessment\\CoinJar\\GKAssessment\\CoinJar\\CoinJar.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "D:\\ChrisGK\\GKAssessment\\CoinJar\\CoinJar.csproj": {
+    "D:\\GKAssessment\\CoinJar\\GKAssessment\\CoinJar\\CoinJar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ChrisGK\\GKAssessment\\CoinJar\\CoinJar.csproj",
+        "projectUniqueName": "D:\\GKAssessment\\CoinJar\\GKAssessment\\CoinJar\\CoinJar.csproj",
         "projectName": "CoinJar",
-        "projectPath": "D:\\ChrisGK\\GKAssessment\\CoinJar\\CoinJar.csproj",
+        "projectPath": "D:\\GKAssessment\\CoinJar\\GKAssessment\\CoinJar\\CoinJar.csproj",
         "packagesPath": "C:\\Users\\Chris\\.nuget\\packages\\",
-        "outputPath": "D:\\ChrisGK\\GKAssessment\\CoinJar\\obj\\",
+        "outputPath": "D:\\GKAssessment\\CoinJar\\GKAssessment\\CoinJar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
